@@ -33,7 +33,7 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 
 <p align="center">   <img src="Research Areas.png" alt="NJUHML Research Areas" width="500"/> </p>
 
----
+
 
 ## 🌍 Global & Regional Models
 
@@ -44,14 +44,13 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 - **[NJU-Mars](<repo-link>)** — Global AI model for Mars *(5°)*
 - **[GAP](<repo-link>)** — Generative assimilation and prediction for weather and climate *(0.25°)*
 
----
 
 ## ⛈️ Nowcasting
 
 - **[CM4Nowcast](<repo-link>)** — A customized multi-scale deep learning framework
 - **[WADEPre](https://github.com/NJUHML/WADEPre)** — Wavelet-based decomposition model
 
----
+
 
 ## 🧩 Applications
 
@@ -61,7 +60,6 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 - **[MeteorIR](<repo-link>)** — Weather dataset based on multimodal large language models (MLLMs)
 - **[BaguanCyclone](<repo-link>)** — Tropical cyclone track correction
 
----
 
 ## 🤝 Contact & Links
 
