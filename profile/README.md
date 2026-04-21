@@ -1,4 +1,4 @@
-# 🌏 NJUHML
+# NJUHML
 
 <p align="center">
   <b>NJUHML</b> is affiliated with the <b>School of Atmospheric Sciences, Nanjing University</b>,  
