@@ -1,8 +1,9 @@
-# NJUHML
+# Nanjing University Hydrometeorology Laboratory (NJUHML)
 
 <p align="center">
+  
   <b>NJUHML</b> is affiliated with the <b>School of Atmospheric Sciences, Nanjing University</b>,  
-  under the leadership of Professor <a href="https://as.nju.edu.cn/60/20/c11339a483360/page.htm">Huiling Yuan</a>.
+  under the leadership of Professor <a href="https://as.nju.edu.cn/as_en/00/e6/c20738a327910/page.htm">Huiling Yuan</a>.
 </p>
 
 
