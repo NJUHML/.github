@@ -31,7 +31,7 @@ NJUHML focuses on AI-driven weather and climate modeling, including global and r
 
 For more information, please visit our 🌐 [official website](https://njuhml.github.io/).
 
-<p align="center">   <img src="Research Areas.png" alt="NJUHML Research Areas" width="1100"/> </p>
+<p align="center">   <img src="Research Areas.png" alt="NJUHML Research Areas" width="500"/> </p>
 
 ---
 
