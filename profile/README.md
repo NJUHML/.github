@@ -23,7 +23,6 @@
 </p>
 
 
----
 
 ## 📖 About Us
 
@@ -67,7 +66,6 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 - 🏫 Affiliation: [School of Atmospheric Sciences, Nanjing University](https://as.nju.edu.cn/)
 - 👩‍🏫 PI: [Professor Huiling Yuan](https://as.nju.edu.cn/60/20/c11339a483360/page.htm)
 
----
 
 <p align="center">
   <i>Welcome to explore our repositories and research projects.</i>
