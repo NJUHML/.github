@@ -41,7 +41,7 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 - **[Baguan HR](<repo-link>)** — Global high-resolution AI model *(0.1°)*
 - **[RegionalCast](<repo-link>)** — Regional surface variable forecasts *(0.05°)*
 - **[RainCast](https://github.com/NJUHML/RainCast)** — Regional high-resolution precipitation forecasts *(0.05°)*
-- **[NJU-Mars](<repo-link>)** — Global AI model for Mars *(5°)*
+- **[NJU-Mars](https://github.com/NJUHML/NJU-Mars)** — Global AI model for Mars *(5°)*
 - **[GAP](<repo-link>)** — Generative assimilation and prediction for weather and climate *(0.25°)*
 
 
