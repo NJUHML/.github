@@ -37,7 +37,7 @@ For more information, please visit our 🌐 [official website](https://njuhml.gi
 
 ## 🌍 Global & Regional Models
 
-- **[NJU-Earth](<repo-link>)** — Global AI model *(0.25°)*
+- **[NJU-Earth](https://github.com/NJUHML/NJU-Earth)** — Global AI model *(0.25°)*
 - **[Baguan HR](<repo-link>)** — Global high-resolution AI model *(0.1°)*
 - **[RegionalCast](<repo-link>)** — Regional surface variable forecasts *(0.05°)*
 - **[RainCast](https://github.com/NJUHML/RainCast)** — Regional high-resolution precipitation forecasts *(0.05°)*
